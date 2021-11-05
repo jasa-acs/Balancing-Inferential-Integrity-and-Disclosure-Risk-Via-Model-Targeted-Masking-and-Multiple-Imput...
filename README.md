@@ -1,4 +1,6 @@
 # Balancing Inferential Integrity and Disclosure Risk Via Model Targeted Masking and Multiple Imputation
+### Bei Jiang, Adrian E. Raftery, Russell J. Steele & Naisyin Wang
+
 # Author Contributions Checklist Form
 
 ## Data
